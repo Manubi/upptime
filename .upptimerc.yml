@@ -6,12 +6,13 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Impfi
     url: https://www.impfi.at
+    icon: https://www.google.com/favicon.ico
 assignees: # Users to assign downtime issues (optional)
   - Manubi
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: upp.impfi.at
+  cname: status.impfi.at
   name: Impfi
   introTitle: "**Impfi.at** uptime monitor page."
   introMessage: This page get's updated every 5 minutes.
