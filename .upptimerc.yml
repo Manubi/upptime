@@ -12,6 +12,7 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: upp.impfi.at
-  name: Upptime
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  name: Impfi
+  introTitle: "**Impfi.at** uptime monitor page."
+  introMessage: This page get's updated every 5 minutes.
+
