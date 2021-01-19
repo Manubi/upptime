@@ -2,7 +2,7 @@
   {
     "name": "Impfi",
     "url": "https://www.impfi.at",
-    "icon": "https://www.google.com/favicon.ico",
+    "icon": "https://www.impfi.at/favicon.ico",
     "slug": "impfi",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 626,
-    "timeWeek": 626,
-    "timeMonth": 626,
-    "timeYear": 626,
+    "time": 628,
+    "timeDay": 628,
+    "timeWeek": 628,
+    "timeMonth": 628,
+    "timeYear": 628,
     "dailyMinutesDown": {}
   }
 ]
