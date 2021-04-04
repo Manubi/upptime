@@ -4,17 +4,17 @@
     "url": "https://www.impfi.at",
     "icon": "https://www.impfi.at/favicon.ico",
     "slug": "impfi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 512,
-    "timeDay": 780,
-    "timeWeek": 599,
-    "timeMonth": 435,
-    "timeYear": 512,
+    "time": 510,
+    "timeDay": 543,
+    "timeWeek": 566,
+    "timeMonth": 432,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2021-03-09": 23
     }
